@@ -1,0 +1,24 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.mycard {
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.mycard:hover {
+  box-shadow: 1px 1px 6px 2px gray;
+}
+
+a {
+  color: #007bff !important;
+  cursor: pointer;
+}
+
+.category-tag {
+  background: lightblue;
+  padding: 3px 10px;
+  border-radius: 10px;
+}
